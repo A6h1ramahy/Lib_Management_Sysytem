@@ -1,0 +1,10 @@
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,available
+2,To Kill a Mockingbird,Harper Lee,Fiction,available
+3,1984,George Orwell,Science Fiction,available
+4,Pride and Prejudice,Jane Austen,Romance,available
+5,The Catcher in the Rye,J.D. Salinger,Fiction,available
+6,Moby Dick,Herman Melville,Adventure,available
+7,War and Peace,Leo Tolstoy,Historical Fiction,available
+8,The Odyssey,Homer,Epic Poetry,available
+9,Crime and Punishment,Fyodor Dostoevsky,Philosophical Fiction,available
+10,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical Fiction,available
